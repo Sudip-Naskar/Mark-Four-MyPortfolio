@@ -117,6 +117,9 @@ hr{
 .hero .hero-heading .heading-inverted{
     color: var(--primary-color);
 }
+.heading-inverted{
+    color: var(--primary-color);
+}
 
 .section{
     padding: 2rem;
