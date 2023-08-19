@@ -53,6 +53,7 @@ hr{
 /* lists */
 .list-non-bullet{
     list-style: none;
+    padding: 0px;
 }
 
 .list-non-bullet .space{
